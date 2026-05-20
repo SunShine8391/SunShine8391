@@ -19,7 +19,7 @@
 
 - 🤝Worked as Team Leader on Collaborative NetMeds Clone Project. 
 
-- 💬 Ask me about **React, Next.js, TypeScript, Node.js, Tailwind CSS, JavaScript**
+- 💬 Ask me about **React, Next.js, TypeScript, NestJS, Tailwind CSS, JavaScript**
 
 
 
